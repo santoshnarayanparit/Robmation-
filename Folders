@@ -1,0 +1,8 @@
+project-folder/
+│
+├── index.html         ← Paste the above code here
+└── videos/
+    ├── yaskawa.mp4    ← Add real robot videos
+    ├── kuka.mp4
+    ├── abb.mp4
+    └── fanuc.mp4
